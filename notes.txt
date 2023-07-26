@@ -6,3 +6,5 @@ kk .
 akkk .
 
 gutenberg: *   *   *   *...
+
+qed.train, simple_wikipedia.train, wikipedia.train: nicht = entfernen wegen mathematischen Formeln
